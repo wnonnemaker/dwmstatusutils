@@ -1,4 +1,4 @@
-##DWMSTATUS UTILS##
+##DWMSTATUS UTILS
 This repo contains some of the tools I have written for my dwmstatus status bar, integrated into the suckless desktop suite.
 
 This has worked for arch linux, but I think it would work for other distributions as well.
