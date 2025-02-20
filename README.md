@@ -5,4 +5,9 @@ This has worked for arch linux, but I think it would work for other distribution
 
 I haven't seen a ton of people using dwmstatus as a status bar online, so I hope this reaches a weary traveler and saves them some work.
 
+## Current Tools
+IP obtainer - getip.c
+RAM usage as a % - getmem.c 
+My dwmstatus.c file, which contains emoji support, this was kind of a pain to configure
+
 Enjoy!
